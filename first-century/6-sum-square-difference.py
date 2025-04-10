@@ -1,9 +1,10 @@
 """
 Problem 6: Sum Square Difference
+
 Find the difference between the sum of the squares and
-the square of the sum of the first one hundred natural numbers
+the square of the sum of the first one hundred natural numbers.
 """
-# Assuming 0 is not a natural number
+# Problem assumes that 0 is not a natural number.
 
 upper = 100
 

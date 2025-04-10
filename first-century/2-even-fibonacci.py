@@ -1,6 +1,9 @@
-# Problem 2: Even Fibonacci numbers
-# By considering the terms in the fibonacci sequence whose values do not exceed four million,
-# find the sum of the even-valued terms.
+"""
+Problem 2: Even Fibonacci numbers
+
+By considering the terms in the fibonacci sequence whose values do 
+not exceed four million, find the sum of the even-valued terms.
+"""
 
 sum = 0
 upper = 4000000

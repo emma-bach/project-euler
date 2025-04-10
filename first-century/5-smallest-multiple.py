@@ -1,5 +1,6 @@
 """
 Problem 5: Smallest Multiple
+
 What is the smallest number that is divisible without remainder
 by all the numbers from 1 to 20?
 """

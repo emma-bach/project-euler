@@ -1,6 +1,7 @@
-# Problem 1: Multiples of 3 or 5
-# Find the sum of all multiples of 3 or 5 below 1000
-
+"""
+Problem 1: Multiples of 3 or 5
+Find the sum of all multiples of 3 or 5 below 1000.
+"""
 
 def linear_time(upper,num1,num2):
     """
