@@ -10,6 +10,7 @@ def generate_triplet(target: int):
         for m in range(1, target // k):
             for n in range(1, min(m, target // (k * m))):
                 # Formula for generating pythagorean triples taken from wikipedia
+                # Loop Bounds are sufficient because we have m > n and a,b,c < target
                 a = k * (m**2 - n**2)
                 b = k * (2 * m * n)
                 c = k * (m**2 + n**2)
